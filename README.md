@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Hello, I'm Lauren!
+Welcome to my site, thank you for visiting~
 
-You can use the [editor on GitHub](https://github.com/laurenrhuang/laurenrhuang.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![IMG_20200429_181426295](https://user-images.githubusercontent.com/81484862/123365368-ffb00300-d52a-11eb-86f6-c831a9724db8.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+My name is Lauren Huang and I am a rising 3rd-year undergraduate student at UC Santa Barbara with a major in Statistics and Data Science and minor in Educational Studies.
+My expected graduation date is Spring 2023.
+- Through my experience as a student and tutor to my math classmate, I have become interested in learning about different educational backgrounds, especially in the STEM field.
+- In my spare time, I enjoy exploring the overlap between my passion, art, and statistics, specifically how careful use of digital media can enhance the effectiveness of data visualization. (I've explored UI/UX design in Figma with the help of my cousin)
+- I don't know much about coding or data science outside of my computer science courses, so I'm excited for this summer project!
+### More random stuff about me
+- Next year, I'll be the new president of our UCSB's digital arts club, Gauchographics! If you're interested in digital media, feel free to hop by and say hello!
+- I'm also on the art team of our independent student-run school newspaper, [The Daily Nexus](https://dailynexus.com/).
+- When I was younger, I attended Irvine Chinese School, so I speak both English and Mandarin.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/laurenrhuang/laurenrhuang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Visit my LinkedIn [here](https://www.linkedin.com/in/lauren-huang-b527211a9/).
