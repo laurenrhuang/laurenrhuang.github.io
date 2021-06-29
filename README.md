@@ -13,7 +13,6 @@ My expected graduation date is Spring 2023.
 ## Some of my Extracurriculars
 - Next year, I'll be the new president of our UCSB's digital arts club, Gauchographics! If you're interested in digital media, feel free to hop by and say hello!
 - I'm also on the art team of our independent student-run school newspaper, [The Daily Nexus](https://dailynexus.com/).
-- I have 
 - When I was younger, I attended Irvine Chinese School, so I speak both English and Mandarin.
 
 ### Here's one of my works for the Daily Nexus
