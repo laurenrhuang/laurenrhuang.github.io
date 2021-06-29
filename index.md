@@ -1,5 +1,5 @@
 # Hello, I'm Lauren!
-Welcome to my site, thank you for visiting~
+Thank you for visiting!
 
 ![IMG_20200429_181426295](https://user-images.githubusercontent.com/81484862/123365368-ffb00300-d52a-11eb-86f6-c831a9724db8.jpg)
 
