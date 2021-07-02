@@ -1,11 +1,8 @@
 name: Spell checking
 on:
-  push:
-    paths:
-    - README.md
   pull_request:
     paths:
-    - README.md
+      - '**/README.md'
   
   workflow_dispatch:
 
