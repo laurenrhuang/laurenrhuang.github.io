@@ -5,6 +5,7 @@ on:
     - main
     paths:
     - '**/README.md'
+    - '!**.yml'
   
   workflow_dispatch:
 
