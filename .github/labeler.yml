@@ -1,0 +1,5 @@
+new-posts: 
+- post/*
+# apply test label to all posts (/* wildcard)
+test: 
+- /*
