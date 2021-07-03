@@ -1,11 +1,9 @@
 name: Spell checking
 on:
   pull_request:
-    branches:
-    - main
+    branches: [ main ]
     paths:
-    - '**/README.md'
-    - '!**.yml'
+      - '**/README.md'
   
   workflow_dispatch:
 
