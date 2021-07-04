@@ -2,7 +2,7 @@ name: Spell checking
 on:
   pull_request:
     branches: [ main ]
-    path:
+    paths:
       - 'README.md'
 
   workflow_dispatch:
