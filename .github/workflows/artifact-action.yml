@@ -1,0 +1,22 @@
+name: Upload an Artifact
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  spelling:
+    name: Upload an Artifact
+    runs-on: ubuntu-latest
+  
+    steps:
+    - uses: actions/checkout@v2
+    
+    - run: mkdir -p path/to/artifact
+    - run: echo hello > path/to/artifact/world.txt
+   
+    - name: 'Upload a Build Artifact'
+      uses: actions/upload-artifact@v2.2.4
+      with:
+        name: Upload artifact
+        # where to upload
+        path: ./
