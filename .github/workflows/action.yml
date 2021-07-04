@@ -5,7 +5,9 @@ name: 'Upload a Build Artifact'
 on:
   push:
     branches: [ main ]
-    
+
+  workflow_dispatch:
+  
 jobs:
 
   archive-build-artifacts:
@@ -51,8 +53,6 @@ jobs:
 #
 #      Minimum 1 day.
 #      Maximum 90 days unless changed from the repository settings page.
-#      
-  workflow_dispatch:
 # 
 #runs:
 #  using: 'node12'
