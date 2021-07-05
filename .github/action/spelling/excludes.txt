@@ -16,4 +16,3 @@ ignore$
 \.wav$
 ^\.github/
 index.md
-wordlist.txt
