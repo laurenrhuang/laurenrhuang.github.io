@@ -14,5 +14,8 @@ ignore$
 \.mp[34]$
 \.png$
 \.wav$
+\.github
+\.https
+\.laurenrhuang
 ^\.github/
 index.md
